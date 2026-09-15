@@ -46,3 +46,11 @@ main{
     background: black;
     color: white;
 }
+
+.site-footer .inner{
+    display: grid;
+    grid-template: auto / 1fr 1fr;
+    max-width: 1120px;
+    margin: 0px auto;
+    padding: 34px;
+}
