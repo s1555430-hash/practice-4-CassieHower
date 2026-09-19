@@ -116,7 +116,7 @@ lede{
 
 .cards{
     display: grid;
-    grid-template: auto /1fr 1fr 1fr;
+    grid-template: auto / 1fr 1fr 1fr;
     gap: 28px;
     padding-bottom: 60px;
 }
@@ -128,7 +128,7 @@ object-fit: cover;
 }
 
 .card h3{
-    margin:  16px 0 6px;
+    margin: 14px 0 6px;
 }
 
 .card p{
