@@ -52,7 +52,7 @@ main{
     grid-template: auto / 1fr 1fr;
     max-width: 1120px;
     margin: 0px auto;
-    padding: 34px;
+    padding: 34px 24px;
 }
 
 .site-footer a{
@@ -86,7 +86,7 @@ main{
 letter-spacing: 0.18em;
 text-transform: uppercase;
 color: blue;
-margin-bottom: 18px;
+margin-bottom: 10px;
 }
 
 lede{
