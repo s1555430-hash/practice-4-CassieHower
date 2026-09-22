@@ -168,3 +168,34 @@ object-fit: cover;
 margin-bottom: 9px;
 font-size: 16px;
 }
+
+.jump {
+    border-left: 3px solid #1b858f;
+    padding-left: 18px;
+    margin-bottom: 30px;
+}
+
+.jump ol {
+margin-left: 18px;
+}
+
+jump li {
+    font-size: 16px;
+}
+
+.step {
+    border-top: #efe9df;
+    padding-top: 26px;
+    margin-top: 26px;
+}
+
+.step .num {
+    display: block;
+    font-size: 30px;
+    color: #1b858f;
+}
+
+.back {
+font-size: 14px;
+color: #6b6560;
+}
